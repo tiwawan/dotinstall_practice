@@ -10,10 +10,24 @@
       <h1>アンケート</h1>
       <form action="survey.php" method="post">
         <p>メールアドレス: 
-        <input type="text" name="email"/>
+        <input type="text" name="email" size="50" placeholder="please input email"/>
+        </p>
+        <p>パスワード:
+        <input type="password" name="password"/>
+        </p>
+        <input type="hidden" name="user_id" value="123456"/>
+        <p>コメント:
+        <textarea name="comment" cols="40" rows="5" placeholder="comment">
+        </textarea>
         </p>
         <p>
-        <input type="submit" value="送信"/>
+        <button type="submit"><strong>送信！！！！</strong>
+        </button>
+        <button type="button">しょり
+        </button>
+        </p>
+        <p>
+        <input type="submit" value="送信"/ disabled>
         </p>
       </form>
     </artile>
