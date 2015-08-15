@@ -7,10 +7,19 @@
   </head>
   <body>
     <artile>
-      <h1>アンケート</h1>
+      <h1><label for="iphone">アンケート</label></h1>
       <form action="survey.php" method="post">
         <p>メールアドレス: 
         <input type="text" name="email" size="50" placeholder="please input email"/>
+        </p>
+        <p>
+        Phone:
+        <label><input type="checkbox" name="phone" value="android" checked/>Android</label>
+        <input type="checkbox" name="phone" value="iphone" id="iphone"/>iPhone
+        </p>
+        <p>
+        <input type="radio" name="color" value="red" checked/>Red
+        <input type="radio" name="color" value="blue"/>Blue
         </p>
         <p>パスワード:
         <input type="password" name="password"/>
