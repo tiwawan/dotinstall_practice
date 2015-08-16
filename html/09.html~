@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf8">
+    <title>ごはん
+    </title>
+  </head>
+  <body>
+<header>
+おいしいごはん！
+<nav>
+ホーム
+このサイトについて
+プロフィール
+</nav>
+</header>
+
+<section>
+今月のおいしいごはん
+<article>
+おいしいごはん #12
+至高のTKG
+</article>
+</section>
+
+<section>
+新着のおいしいごはん
+<article>
+おいしいごはん #32
+はもしゃぶ
+</article>
+<article>
+おいしいごはん#31
+スリランカカレー
+</article>
+</section>
+
+
+<aside>
+おすすめレシピ本
+book1
+book2
+book3
+</aside>
+
+
+<footer>
+このサイトは@tiwawanによって運営されています
+</footer>
+
+  </body>
+</html>
