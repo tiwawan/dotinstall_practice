@@ -1,0 +1,8 @@
+ul li:first-child { color:orange; }
+
+a:link {color: violet;}
+a:visited {color: orange;}
+a:hover {color: red;}
+a:active {color: green;}
+
+input:focus {background:skyblue}
