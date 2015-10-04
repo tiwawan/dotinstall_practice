@@ -1,0 +1,8 @@
+h1,p,span,a {
+  border: 1px #ddd;
+  border-style: solid;
+}
+
+h1,p {
+  display: inline-block;
+}
