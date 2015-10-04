@@ -1,0 +1,8 @@
+p {
+  color: silver;
+  font-size: 24px;
+  font-family: Arial;
+  font-weight: bold;
+  font-align: center;
+  text-decoration: underline line-through;
+}

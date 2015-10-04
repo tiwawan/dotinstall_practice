@@ -1,0 +1,9 @@
+html,body {
+  height:100%
+}
+
+div {
+  background: silver;
+  width: 50%;
+  height:50%;
+}
